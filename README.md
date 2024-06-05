@@ -16,6 +16,7 @@ NoteApp is a web application that allows users to create, update, delete, and ma
 ## Tech Stack
 
 ### Backend
+
 - **Node.js**
 - **Express.js**
 - **JWT (jsonwebtoken)**: For authentication.
@@ -25,6 +26,7 @@ NoteApp is a web application that allows users to create, update, delete, and ma
 - **Knex.js**: SQL query builder for MySQL.
 
 ### Frontend
+
 - **React**
 - **Ant Design**: UI component library.
 - **Axios**: For making HTTP requests.
@@ -41,46 +43,50 @@ NoteApp is a web application that allows users to create, update, delete, and ma
 ### Steps
 
 1. **Clone the repository**
-    ```bash
-    git clone https://github.com/yourusername/noteapp.git
-    cd noteapp
-    ```
+
+   ```bash
+   git clone https://github.com/yourusername/noteapp.git
+   cd noteapp
+   ```
 
 2. **Install backend dependencies**
-    ```bash
-    cd api
-    npm install
-    ```
+
+   ```bash
+   cd api
+   npm install
+   ```
 
 3. **Set up the database**
-    - Create a MySQL database and update the Knex configuration in `knexfile.js`.
-    - Run migrations to set up tables:
-    ```bash
-    npx knex migrate:latest
-    ```
+
+   - Create a MySQL database and update the Knex configuration in `knexfile.js`.
+   - Run migrations to set up tables:
+
+   ```bash
+   npx knex migrate:latest
+   ```
 
 4. **Start the backend server**
-    ```bash
-    npm run dev
-    ```
+
+   ```bash
+   npm run dev
+   ```
 
 5. **Install frontend dependencies**
-    ```bash
-    cd ../client
-    npm install
-    ```
+
+   ```bash
+   cd ../client
+   npm install
+   ```
 
 6. **Start the frontend development server**
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 ## Postman Collection
 
 A Postman collection is included to help you test the API endpoints. You can import the collection into Postman using the provided file `NoteApp.postman_collection.json`.
 
-
 ## Contact
 
-For any inquiries or support, please contact us at [ayub.pro2025@example.com](mailto:ayub.pro2025@example.com).
-
+For any inquiries or support, please contact us at [ayub.pro2025@example.com](mailto:ayub.pro2025@gmail.com).
