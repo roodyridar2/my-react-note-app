@@ -84,14 +84,15 @@ NoteApp is a web application that allows users to create, update, delete, and ma
 
 
 # Here are some images from my project:
-#User page
+# User page
 ![Image 1](https://github.com/roodyridar2/my-react-note-app/raw/main/images/1.png)
 ![Image 2](https://github.com/roodyridar2/my-react-note-app/raw/main/images/2.png)
 ![Image 3](https://github.com/roodyridar2/my-react-note-app/raw/main/images/3.png)
 ![Image 4](https://github.com/roodyridar2/my-react-note-app/raw/main/images/4.png)
 ![Image 5](https://github.com/roodyridar2/my-react-note-app/raw/main/images/5.png)
+
+# Admin Pages
 ![Image 6](https://github.com/roodyridar2/my-react-note-app/raw/main/images/6.png)
-#Admin Pages
 ![Image 7](https://github.com/roodyridar2/my-react-note-app/raw/main/images/7.png)
 ![Image 8](https://github.com/roodyridar2/my-react-note-app/raw/main/images/8.png)
 ![Image 9](https://github.com/roodyridar2/my-react-note-app/raw/main/images/9.png)
