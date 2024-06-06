@@ -11,7 +11,6 @@ NoteApp is a web application that allows users to create, update, delete, and ma
 - **Image Upload**: Upload images for notes.
 - **Admin Page**: Admin can delete all users and their notes.
 - **Rich Text Editor**: Use ReactQuill for note content.
-- **Date Formatting**: Use Moment.js for date formatting.
 
 ## Tech Stack
 
